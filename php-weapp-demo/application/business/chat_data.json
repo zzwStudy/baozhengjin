@@ -1,0 +1,66 @@
+{
+    "userMap": {
+        "99376148-34a1-469e-8411-bf182a1c726b": {
+            "openId": "oOC_s0GT87bF5yNnW4Zt0pSSdB5s",
+            "nickName": "郑领导的小张子",
+            "gender": 1,
+            "language": "zh_CN",
+            "city": "",
+            "province": "Dubai",
+            "country": "United Arab Emirates",
+            "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/Q0j4TwGTfTKgNQbtic3oYSXL18oTGknT8z0PelXdUlfuPhqwPJbh1ng85MIu6U9UnhNZuxt6zfaCEN2iacg5t4Kg\/0",
+            "watermark": {
+                "timestamp": 1515393883,
+                "appid": "wxc6549d6c76e357a3"
+            }
+        },
+        "e97d15a7-b121-4358-9ac5-f946eb0caa92": {
+            "openId": "oOC_s0GT87bF5yNnW4Zt0pSSdB5s",
+            "nickName": "郑领导的小张子",
+            "gender": 1,
+            "language": "zh_CN",
+            "city": "",
+            "province": "Dubai",
+            "country": "United Arab Emirates",
+            "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/Q0j4TwGTfTKgNQbtic3oYSXL18oTGknT8z0PelXdUlfuPhqwPJbh1ng85MIu6U9UnhNZuxt6zfaCEN2iacg5t4Kg\/0",
+            "watermark": {
+                "timestamp": 1515393883,
+                "appid": "wxc6549d6c76e357a3"
+            }
+        },
+        "5204289f-8e07-49d1-a273-67f2480960d5": {
+            "openId": "oOC_s0GT87bF5yNnW4Zt0pSSdB5s",
+            "nickName": "郑领导的小张子",
+            "gender": 1,
+            "language": "zh_CN",
+            "city": "",
+            "province": "Dubai",
+            "country": "United Arab Emirates",
+            "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/Q0j4TwGTfTKgNQbtic3oYSXL18oTGknT8z0PelXdUlfuPhqwPJbh1ng85MIu6U9UnhNZuxt6zfaCEN2iacg5t4Kg\/0",
+            "watermark": {
+                "timestamp": 1515393883,
+                "appid": "wxc6549d6c76e357a3"
+            }
+        },
+        "e1fb04f9-9c64-44a2-828b-24532670ab3b": {
+            "openId": "oOC_s0GT87bF5yNnW4Zt0pSSdB5s",
+            "nickName": "郑领导的小张子",
+            "gender": 1,
+            "language": "zh_CN",
+            "city": "",
+            "province": "Dubai",
+            "country": "United Arab Emirates",
+            "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/Q0j4TwGTfTKgNQbtic3oYSXL18oTGknT8z0PelXdUlfuPhqwPJbh1ng85MIu6U9UnhNZuxt6zfaCEN2iacg5t4Kg\/0",
+            "watermark": {
+                "timestamp": 1515393883,
+                "appid": "wxc6549d6c76e357a3"
+            }
+        }
+    },
+    "connectedTunnelIds": [
+        "99376148-34a1-469e-8411-bf182a1c726b",
+        "e97d15a7-b121-4358-9ac5-f946eb0caa92",
+        "5204289f-8e07-49d1-a273-67f2480960d5",
+        "e1fb04f9-9c64-44a2-828b-24532670ab3b"
+    ]
+}
