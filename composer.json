@@ -1,5 +1,6 @@
 {
     "require": {
-        "qcloud/weapp-sdk": "*"
+        "qcloud/weapp-sdk": "*",
+        "overtrue/wechat": "~3.1"
     }
 }
