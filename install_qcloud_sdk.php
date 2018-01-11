@@ -8,7 +8,7 @@ use \QCloud_WeApp_SDK\Conf as Conf;
 
 // Windows
 if (PHP_OS === 'WINNT') {
-    $sdkConfig = 'C:\qcloud\sdk.config';
+    $sdkConfig = 'D:\qcloud\sdk.config';
 
 // Linux
 } else {

@@ -1,0 +1,77 @@
+DEBUG - 2018-01-10 14:27:50 --> UTF-8 Support Enabled
+DEBUG - 2018-01-10 14:27:50 --> No URI present. Default controller set.
+DEBUG - 2018-01-10 14:27:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-01-10 14:27:50 --> Total execution time: 0.0270
+DEBUG - 2018-01-10 14:27:52 --> UTF-8 Support Enabled
+DEBUG - 2018-01-10 14:27:52 --> No URI present. Default controller set.
+DEBUG - 2018-01-10 14:27:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-01-10 14:27:52 --> Total execution time: 0.0210
+DEBUG - 2018-01-10 14:28:31 --> UTF-8 Support Enabled
+DEBUG - 2018-01-10 14:28:31 --> Global POST, GET and COOKIE data sanitized
+[2018-01-10 14:28:31][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求头未包含 X-WX-Code，请配合客户端 SDK 登录后再进行请求"
+}
+
+DEBUG - 2018-01-10 14:28:31 --> Total execution time: 0.0190
+DEBUG - 2018-01-10 14:54:19 --> UTF-8 Support Enabled
+DEBUG - 2018-01-10 14:54:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-01-10 14:54:33 --> UTF-8 Support Enabled
+DEBUG - 2018-01-10 14:54:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-01-10 14:54:40 --> UTF-8 Support Enabled
+DEBUG - 2018-01-10 14:54:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-01-10 14:56:44 --> UTF-8 Support Enabled
+DEBUG - 2018-01-10 14:56:44 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-01-10 14:56:44 --> Severity: Notice --> Undefined property: Welcome::$db D:\phpStudy\WWW\project\test\bzj4\system\core\Model.php 77
+ERROR - 2018-01-10 14:56:44 --> Severity: error --> Exception: Call to a member function get() on null D:\phpStudy\WWW\project\test\bzj4\application\models\FrontUserModel.php 16
+DEBUG - 2018-01-10 14:57:26 --> UTF-8 Support Enabled
+DEBUG - 2018-01-10 14:57:26 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-01-10 14:57:26 --> Severity: Notice --> Undefined property: Welcome::$db D:\phpStudy\WWW\project\test\bzj4\system\core\Model.php 77
+ERROR - 2018-01-10 14:57:26 --> Severity: error --> Exception: Call to a member function get() on null D:\phpStudy\WWW\project\test\bzj4\application\models\FrontUserModel.php 16
+DEBUG - 2018-01-10 14:59:39 --> UTF-8 Support Enabled
+DEBUG - 2018-01-10 14:59:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-01-10 14:59:41 --> UTF-8 Support Enabled
+DEBUG - 2018-01-10 14:59:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-01-10 15:03:32 --> UTF-8 Support Enabled
+DEBUG - 2018-01-10 15:03:32 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-01-10 15:03:32 --> Severity: Notice --> Undefined property: Welcome::$input D:\phpStudy\WWW\project\test\bzj4\application\controllers\Welcome.php 32
+ERROR - 2018-01-10 15:03:32 --> Severity: error --> Exception: Call to a member function get() on null D:\phpStudy\WWW\project\test\bzj4\application\controllers\Welcome.php 32
+DEBUG - 2018-01-10 15:03:54 --> UTF-8 Support Enabled
+DEBUG - 2018-01-10 15:03:54 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-01-10 15:03:54 --> Severity: error --> Exception: Call to undefined method CI_Controller::____construct() D:\phpStudy\WWW\project\test\bzj4\application\controllers\Welcome.php 8
+DEBUG - 2018-01-10 15:03:55 --> UTF-8 Support Enabled
+DEBUG - 2018-01-10 15:03:55 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-01-10 15:03:55 --> Severity: error --> Exception: Call to undefined method CI_Controller::____construct() D:\phpStudy\WWW\project\test\bzj4\application\controllers\Welcome.php 8
+DEBUG - 2018-01-10 15:05:01 --> UTF-8 Support Enabled
+DEBUG - 2018-01-10 15:05:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-01-10 15:05:41 --> UTF-8 Support Enabled
+DEBUG - 2018-01-10 15:05:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-01-10 15:13:31 --> UTF-8 Support Enabled
+DEBUG - 2018-01-10 15:13:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-01-10 15:13:34 --> UTF-8 Support Enabled
+DEBUG - 2018-01-10 15:13:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-01-10 15:21:41 --> UTF-8 Support Enabled
+DEBUG - 2018-01-10 15:21:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-01-10 15:21:41 --> Severity: error --> Exception: Call to undefined function QCloud_WeApp_SDK\Helper\curl_init() D:\phpStudy\WWW\project\test\bzj4\vendor\qcloud\weapp-sdk\lib\Helper\Request.php 27
+DEBUG - 2018-01-10 18:18:19 --> UTF-8 Support Enabled
+DEBUG - 2018-01-10 18:18:19 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-01-10 18:18:19 --> Severity: Error --> Class 'Base' not found D:\phpStudy\WWW\project\test\bzj4\application\controllers\Assurance.php 8
+DEBUG - 2018-01-10 18:19:42 --> UTF-8 Support Enabled
+DEBUG - 2018-01-10 18:19:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-01-10 18:19:42 --> Severity: Error --> Class 'app\controllers\Base' not found D:\phpStudy\WWW\project\test\bzj4\application\controllers\Assurance.php 9
+DEBUG - 2018-01-10 19:01:18 --> UTF-8 Support Enabled
+DEBUG - 2018-01-10 19:01:18 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-01-10 19:01:18 --> Severity: Error --> Class 'Base' not found D:\phpStudy\WWW\project\test\bzj4\application\controllers\Assurance.php 9
+DEBUG - 2018-01-10 19:01:20 --> UTF-8 Support Enabled
+DEBUG - 2018-01-10 19:01:20 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-01-10 19:01:20 --> Severity: Error --> Class 'Base' not found D:\phpStudy\WWW\project\test\bzj4\application\controllers\Assurance.php 9
+DEBUG - 2018-01-10 19:01:20 --> UTF-8 Support Enabled
+DEBUG - 2018-01-10 19:01:20 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-01-10 19:01:20 --> Severity: Error --> Class 'Base' not found D:\phpStudy\WWW\project\test\bzj4\application\controllers\Assurance.php 9
+DEBUG - 2018-01-10 19:01:21 --> UTF-8 Support Enabled
+DEBUG - 2018-01-10 19:01:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-01-10 19:01:21 --> Severity: Error --> Class 'Base' not found D:\phpStudy\WWW\project\test\bzj4\application\controllers\Assurance.php 9
+DEBUG - 2018-01-10 19:01:21 --> UTF-8 Support Enabled
+DEBUG - 2018-01-10 19:01:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2018-01-10 19:01:21 --> Severity: Error --> Class 'Base' not found D:\phpStudy\WWW\project\test\bzj4\application\controllers\Assurance.php 9
